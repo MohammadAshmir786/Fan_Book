@@ -12,7 +12,7 @@ Welcome to the **Ed Sheeran Fanbook**! This simple yet powerful tool allows Ed S
 ![Comment Taker Preview](https://github.com/user-attachments/assets/e2a5df56-d32a-43d4-8332-3be2aa7882da)
 
 ## **Live Preview** 🔗
-Check out the **live version** of the comment taker here: [Live Preview](https://mohammadashmir786.github.io/Fan_Book/)
+Check out the **live version** of the comment taker here: [Live Preview](https://rawcdn.githack.com/MohammadAshmir786/Fan_Book/02f55614756915d314b52172173973f0f5839b11/Fanbook.html)
 
 ## **How to Contribute** 🤝
 We encourage fans to contribute and enhance the project! If you want to improve the comment-taking features, here’s how to get started:
